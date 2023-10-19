@@ -1,0 +1,52 @@
+.Igor {
+    margin: 0;
+    width: 100%;
+}
+
+.why-thrive {
+    background-color:  #62D0DF;
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wt-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wt-description__title {
+    color: #FFF;
+    font-family: Larsseit;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.216px;
+    padding-left: 178px;
+}
+
+.wt-description__text {
+    padding-left: 178px;
+    width: 555px;
+    height: 235px;
+    color: #FFF;
+    font-family: Larsseit;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.wt-description__text_style {
+    color: #FFF;
+    font-family: Larsseit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.wt-img__item {
+    height: 100%
+}
